@@ -1,8 +1,8 @@
-# PROJECT OWNER 
+## PROJECT OWNER 
 **Name:** Osazee Odigie
 **Email Address:** osazee.odigie01@gmail.com
 
-# PROJECT TITLE
+## PROJECT TITLE
 **Deploy a high-availability web app using CloudFormation**
 
 ## Files Description
